@@ -1,0 +1,857 @@
+"year","state","n_jobs"
+2008,"Nevada",2
+2008,"Tennessee",2
+2008,"Texas",15
+2008,"Missouri",2
+2008,"South Carolina",14
+2008,"Pennsylvania",2
+2008,"Illinois",3
+2008,"Florida",2
+2008,"Louisiana",1
+2008,"Michigan",2
+2008,"Maryland",2
+2008,"California",5
+2008,"Arizona",5
+2008,"Oklahoma",1
+2008,"Kentucky",1
+2008,"North Dakota",1
+2008,"Virginia",1
+2008,"New York",2
+2008,"Indiana",1
+2009,"Michigan",1039
+2009,"Ohio",23
+2009,"New Jersey",19
+2009,"Utah",6
+2009,"Pennsylvania",27
+2009,"Florida",47
+2009,"North Carolina",24
+2009,"Nebraska",6
+2009,"Oklahoma",6
+2009,"Illinois",22
+2009,"Georgia",23
+2009,"Massachusetts",14
+2009,"Oregon",5
+2009,"Virginia",16
+2009,"Texas",35
+2009,"West Virginia",1
+2009,"California",13
+2009,"Minnesota",15
+2009,"Arizona",20
+2009,"North Dakota",3
+2009,"empty",7
+2009,"Alabama",8
+2009,"Wisconsin",11
+2009,"Indiana",12
+2009,"Maryland",20
+2009,"Missouri",9
+2009,"Delaware",2
+2009,"South Dakota",2
+2009,"Arkansas",8
+2009,"Iowa",4
+2009,"Tennessee",6
+2009,"South Carolina",10
+2009,"Kentucky",9
+2009,"Vermont",1
+2009,"Nevada",4
+2009,"Louisiana",8
+2009,"Rhode Island",5
+2009,"Connecticut",2
+2009,"New Mexico",3
+2009,"Idaho",1
+2009,"Maine",2
+2009,"Mississippi",3
+2009,"Washington, D.C.",1
+2009,"Kansas",4
+2009,"Montana",3
+2009,"Washington",1
+2010,"Washington",4
+2010,"Virginia",1
+2010,"Connecticut",3
+2010,"Kentucky",1
+2010,"Pennsylvania",8
+2010,"Louisiana",29
+2010,"Minnesota",11
+2010,"Texas",54
+2010,"Alabama",1
+2010,"Florida",3
+2010,"New Hampshire",5
+2010,"Maine",4
+2010,"Ohio",2
+2010,"California",8
+2010,"New York",2
+2010,"Arkansas",3
+2010,"Nebraska",1
+2010,"Georgia",4
+2010,"Missouri",1
+2010,"empty",7
+2010,"Massachusetts",2
+2010,"New Jersey",3
+2010,"Indiana",2
+2010,"Nevada",2
+2010,"Arizona",5
+2010,"South Dakota",2
+2010,"Washington, D.C.",1
+2010,"Kansas",1
+2010,"Maryland",2
+2010,"North Carolina",1
+2010,"Montana",1
+2011,"Texas",297
+2011,"Michigan",19
+2011,"New York",32
+2011,"empty",10
+2011,"Ohio",10
+2011,"Nebraska",3
+2011,"Florida",78
+2011,"Missouri",45
+2011,"Iowa",8
+2011,"California",53
+2011,"Arizona",6
+2011,"South Carolina",22
+2011,"New Jersey",18
+2011,"Georgia",15
+2011,"Oklahoma",6
+2011,"Indiana",16
+2011,"Massachusetts",44
+2011,"Arkansas",7
+2011,"Pennsylvania",4
+2011,"Illinois",3
+2011,"Maine",3
+2011,"Virginia",2
+2011,"Delaware",4
+2011,"Hawaii",1
+2011,"Louisiana",2
+2011,"North Carolina",19
+2011,"Oregon",2
+2011,"Alabama",3
+2011,"Washington",10
+2011,"Tennessee",2
+2011,"Maryland",3
+2011,"New Mexico",2
+2011,"Minnesota",1
+2011,"Kansas",1
+2011,"Nevada",1
+2011,"Colorado",2
+2011,"Connecticut",1
+2011,"South Dakota",1
+2012,"Texas",92
+2012,"California",467
+2012,"Florida",21
+2012,"Iowa",194
+2012,"Washington",10
+2012,"Alabama",4
+2012,"Virginia",26
+2012,"Maryland",23
+2012,"Arkansas",4
+2012,"New York",35
+2012,"empty",16
+2012,"Colorado",9
+2012,"Alaska",8
+2012,"Utah",1
+2012,"Pennsylvania",22
+2012,"Massachusetts",20
+2012,"Ohio",13
+2012,"North Carolina",49
+2012,"Oklahoma",2
+2012,"Michigan",13
+2012,"Washington, D.C.",14
+2012,"North Dakota",5
+2012,"Georgia",16
+2012,"Oregon",5
+2012,"Arizona",8
+2012,"Nebraska",1
+2012,"Minnesota",7
+2012,"New Jersey",18
+2012,"Kentucky",5
+2012,"Connecticut",2
+2012,"Mississippi",2
+2012,"Illinois",22
+2012,"Louisiana",3
+2012,"Delaware",2
+2012,"South Dakota",3
+2012,"West Virginia",5
+2012,"South Carolina",5
+2012,"Nevada",2
+2012,"Kansas",3
+2012,"Hawaii",3
+2012,"Indiana",3
+2012,"Tennessee",7
+2012,"Rhode Island",1
+2012,"Maine",2
+2012,"Idaho",1
+2012,"Montana",1
+2012,"Wisconsin",1
+2012,"Missouri",1
+2012,"Vermont",1
+2013,"Iowa",1476
+2013,"California",207
+2013,"Illinois",102
+2013,"New York",232
+2013,"North Carolina",29
+2013,"Washington",31
+2013,"Tennessee",7
+2013,"Minnesota",28
+2013,"New Jersey",135
+2013,"Oklahoma",19
+2013,"Washington, D.C.",44
+2013,"Colorado",19
+2013,"Virginia",42
+2013,"Pennsylvania",76
+2013,"Texas",93
+2013,"Maryland",19
+2013,"Ohio",74
+2013,"Florida",48
+2013,"Kansas",22
+2013,"empty",30
+2013,"Delaware",4
+2013,"Michigan",26
+2013,"Indiana",7
+2013,"Wisconsin",23
+2013,"Wyoming",3
+2013,"Massachusetts",36
+2013,"Connecticut",42
+2013,"Alaska",9
+2013,"Georgia",13
+2013,"Nebraska",3
+2013,"Oregon",13
+2013,"Nevada",12
+2013,"Arizona",37
+2013,"Kentucky",17
+2013,"North Dakota",4
+2013,"Utah",2
+2013,"New Hampshire",2
+2013,"South Carolina",3
+2013,"South Dakota",4
+2013,"Missouri",6
+2013,"Mississippi",4
+2013,"Louisiana",3
+2013,"Idaho",2
+2013,"West Virginia",1
+2013,"Alabama",1
+2013,"New Mexico",1
+2013,"Maine",1
+2013,"Vermont",1
+2013,"Montana",1
+2014,"Maine",14
+2014,"Pennsylvania",159
+2014,"New Jersey",312
+2014,"Nebraska",31
+2014,"New York",535
+2014,"California",448
+2014,"Oklahoma",52
+2014,"Florida",86
+2014,"Wisconsin",80
+2014,"Hawaii",11
+2014,"Michigan",154
+2014,"Arizona",168
+2014,"South Carolina",46
+2014,"Delaware",11
+2014,"Iowa",258
+2014,"Missouri",85
+2014,"Wyoming",13
+2014,"Idaho",26
+2014,"Texas",274
+2014,"Alabama",18
+2014,"Kansas",23
+2014,"New Hampshire",30
+2014,"South Dakota",17
+2014,"Georgia",155
+2014,"Washington",110
+2014,"Minnesota",49
+2014,"Massachusetts",206
+2014,"North Carolina",130
+2014,"Illinois",175
+2014,"Virginia",147
+2014,"Colorado",44
+2014,"Maryland",51
+2014,"Connecticut",79
+2014,"Louisiana",22
+2014,"Ohio",98
+2014,"Vermont",3
+2014,"Indiana",51
+2014,"West Virginia",6
+2014,"Tennessee",37
+2014,"Oregon",55
+2014,"Washington, D.C.",50
+2014,"Mississippi",9
+2014,"Utah",23
+2014,"North Dakota",15
+2014,"Alaska",11
+2014,"Nevada",17
+2014,"Kentucky",13
+2014,"Arkansas",6
+2014,"empty",44
+2014,"Rhode Island",6
+2014,"New Mexico",4
+2014,"Montana",2
+2015,"California",1966
+2015,"Illinois",825
+2015,"Washington",267
+2015,"Michigan",452
+2015,"Massachusetts",634
+2015,"Colorado",170
+2015,"Connecticut",292
+2015,"Florida",776
+2015,"New York",2035
+2015,"Texas",1225
+2015,"Nebraska",76
+2015,"North Carolina",605
+2015,"Pennsylvania",593
+2015,"Georgia",422
+2015,"Ohio",547
+2015,"Virginia",469
+2015,"New Jersey",1379
+2015,"Arizona",489
+2015,"Tennessee",162
+2015,"Wisconsin",196
+2015,"Oregon",203
+2015,"Nevada",117
+2015,"Iowa",133
+2015,"Maryland",303
+2015,"Delaware",79
+2015,"Louisiana",99
+2015,"Indiana",188
+2015,"West Virginia",44
+2015,"Minnesota",382
+2015,"Kansas",84
+2015,"North Dakota",29
+2015,"Oklahoma",112
+2015,"Utah",128
+2015,"Missouri",249
+2015,"Kentucky",105
+2015,"South Carolina",151
+2015,"Arkansas",64
+2015,"Washington, D.C.",156
+2015,"Idaho",52
+2015,"Montana",32
+2015,"Alabama",91
+2015,"Rhode Island",37
+2015,"Mississippi",54
+2015,"Vermont",11
+2015,"Hawaii",19
+2015,"Wyoming",20
+2015,"New Hampshire",46
+2015,"empty",114
+2015,"South Dakota",24
+2015,"Maine",24
+2015,"New Mexico",32
+2015,"Alaska",7
+2016,"Minnesota",35333
+2016,"Pennsylvania",53658
+2016,"Missouri",29702
+2016,"New Hampshire",11912
+2016,"South Carolina",22419
+2016,"Illinois",54855
+2016,"Alaska",6429
+2016,"Kentucky",21367
+2016,"Colorado",31300
+2016,"Massachusetts",44112
+2016,"Ohio",44061
+2016,"Utah",12999
+2016,"Florida",71482
+2016,"Iowa",18442
+2016,"New York",65979
+2016,"California",118691
+2016,"Michigan",32158
+2016,"Indiana",32711
+2016,"New Jersey",39303
+2016,"Alabama",15932
+2016,"South Dakota",5911
+2016,"Washington, D.C.",13639
+2016,"Wisconsin",28756
+2016,"Idaho",9062
+2016,"Tennessee",31306
+2016,"Maine",10834
+2016,"Arkansas",12041
+2016,"Texas",88606
+2016,"New Mexico",15354
+2016,"Oregon",22385
+2016,"empty",7747
+2016,"Virginia",46793
+2016,"Nevada",13827
+2016,"North Carolina",42750
+2016,"Arizona",33991
+2016,"Kansas",17709
+2016,"Delaware",7773
+2016,"Hawaii",5966
+2016,"Connecticut",20240
+2016,"Georgia",42204
+2016,"Washington",37595
+2016,"Maryland",34514
+2016,"Oklahoma",15888
+2016,"North Dakota",7350
+2016,"Rhode Island",6520
+2016,"Nebraska",11369
+2016,"Wyoming",4674
+2016,"Montana",8638
+2016,"Louisiana",10220
+2016,"Vermont",5316
+2016,"Mississippi",9378
+2016,"West Virginia",10608
+2017,"Illinois",171931
+2017,"Wisconsin",78856
+2017,"Ohio",145494
+2017,"Massachusetts",132161
+2017,"North Carolina",130652
+2017,"Texas",286860
+2017,"Georgia",131963
+2017,"empty",21422
+2017,"Nevada",38670
+2017,"California",438024
+2017,"New York",228413
+2017,"New Jersey",119231
+2017,"Pennsylvania",162593
+2017,"Florida",237182
+2017,"Minnesota",101303
+2017,"Kansas",42492
+2017,"Alabama",41446
+2017,"Michigan",107476
+2017,"New Hampshire",28993
+2017,"Delaware",19110
+2017,"Connecticut",54790
+2017,"Louisiana",39959
+2017,"Oregon",66320
+2017,"Arizona",99736
+2017,"Kentucky",52119
+2017,"Tennessee",83690
+2017,"Idaho",22521
+2017,"Mississippi",22625
+2017,"Hawaii",20237
+2017,"Virginia",132593
+2017,"Arkansas",28469
+2017,"Washington, D.C.",38036
+2017,"Utah",41441
+2017,"Iowa",46257
+2017,"Alaska",12728
+2017,"Colorado",100995
+2017,"Maryland",95956
+2017,"Missouri",82794
+2017,"Washington",105112
+2017,"South Carolina",60321
+2017,"Indiana",89528
+2017,"Nebraska",28712
+2017,"Montana",17460
+2017,"West Virginia",20998
+2017,"Oklahoma",40055
+2017,"North Dakota",15665
+2017,"New Mexico",32808
+2017,"Vermont",12379
+2017,"Maine",22642
+2017,"South Dakota",13098
+2017,"Rhode Island",17306
+2017,"Wyoming",10132
+2018,"Georgia",200863
+2018,"Virginia",192356
+2018,"Texas",488711
+2018,"South Carolina",97689
+2018,"Utah",67035
+2018,"Oregon",95798
+2018,"Montana",17172
+2018,"Tennessee",125358
+2018,"Ohio",247137
+2018,"Maryland",132239
+2018,"Wisconsin",143767
+2018,"California",684478
+2018,"Arizona",126326
+2018,"Florida",374961
+2018,"Kansas",59284
+2018,"Washington, D.C.",42692
+2018,"Illinois",277376
+2018,"New York",345197
+2018,"Massachusetts",194987
+2018,"Washington",147453
+2018,"Missouri",121755
+2018,"Delaware",22254
+2018,"Michigan",196670
+2018,"New Mexico",34048
+2018,"Iowa",67404
+2018,"Hawaii",24168
+2018,"Indiana",139339
+2018,"Kentucky",76028
+2018,"Maine",27156
+2018,"Oklahoma",62939
+2018,"Minnesota",156306
+2018,"Colorado",153891
+2018,"Pennsylvania",273895
+2018,"empty",28373
+2018,"North Carolina",207314
+2018,"Connecticut",72465
+2018,"New Hampshire",40831
+2018,"New Jersey",178806
+2018,"Alaska",12106
+2018,"Alabama",63912
+2018,"Louisiana",62108
+2018,"Nebraska",39654
+2018,"Arkansas",40840
+2018,"Idaho",29278
+2018,"Nevada",53273
+2018,"Rhode Island",21273
+2018,"South Dakota",15406
+2018,"Wyoming",10900
+2018,"Mississippi",33730
+2018,"West Virginia",24618
+2018,"Vermont",13604
+2018,"North Dakota",17660
+2019,"Arkansas",20438
+2019,"California",377796
+2019,"Missouri",64468
+2019,"Iowa",35607
+2019,"Arizona",64638
+2019,"Texas",256812
+2019,"Florida",193345
+2019,"Nevada",28172
+2019,"Mississippi",17561
+2019,"North Dakota",10397
+2019,"Georgia",101683
+2019,"Ohio",119963
+2019,"Wisconsin",66386
+2019,"Oklahoma",32262
+2019,"Hawaii",14134
+2019,"Pennsylvania",140772
+2019,"South Carolina",49438
+2019,"Virginia",108341
+2019,"Massachusetts",111175
+2019,"Colorado",78963
+2019,"North Carolina",106098
+2019,"Louisiana",33446
+2019,"Illinois",142217
+2019,"New York",196169
+2019,"Tennessee",64297
+2019,"New Mexico",18828
+2019,"Montana",9489
+2019,"West Virginia",12992
+2019,"Washington",82337
+2019,"Kentucky",38507
+2019,"Vermont",6835
+2019,"Indiana",66232
+2019,"Idaho",15220
+2019,"Maryland",76320
+2019,"New Jersey",92344
+2019,"Minnesota",74554
+2019,"Alabama",36112
+2019,"Rhode Island",10787
+2019,"New Hampshire",19864
+2019,"Kansas",30401
+2019,"Oregon",43171
+2019,"empty",14958
+2019,"Nebraska",20648
+2019,"Utah",34660
+2019,"Michigan",89597
+2019,"Maine",13635
+2019,"South Dakota",9280
+2019,"Wyoming",5994
+2019,"Delaware",11807
+2019,"Washington, D.C.",26816
+2019,"Connecticut",40772
+2019,"Alaska",6335
+2020,"Florida",1131013
+2020,"New Jersey",529516
+2020,"California",2103660
+2020,"Alabama",234481
+2020,"Pennsylvania",841456
+2020,"North Carolina",652275
+2020,"Texas",1515021
+2020,"Wisconsin",412761
+2020,"Delaware",67813
+2020,"Connecticut",213922
+2020,"Idaho",107650
+2020,"Washington",515557
+2020,"Nebraska",136084
+2020,"Missouri",390551
+2020,"Iowa",215511
+2020,"New York",930872
+2020,"Ohio",754327
+2020,"empty",115409
+2020,"Massachusetts",581854
+2020,"Utah",222773
+2020,"Oregon",263686
+2020,"New Hampshire",118850
+2020,"Georgia",610466
+2020,"Wyoming",37383
+2020,"Arizona",449311
+2020,"Virginia",622506
+2020,"West Virginia",82952
+2020,"Vermont",45085
+2020,"Colorado",450524
+2020,"Michigan",579042
+2020,"Louisiana",183672
+2020,"Indiana",423314
+2020,"Tennessee",410643
+2020,"Maryland",405778
+2020,"Illinois",788786
+2020,"Kentucky",237997
+2020,"Maine",87812
+2020,"Oklahoma",197404
+2020,"Minnesota",413395
+2020,"South Carolina",287094
+2020,"Kansas",199650
+2020,"Montana",64805
+2020,"South Dakota",52797
+2020,"Alaska",42407
+2020,"North Dakota",53383
+2020,"Mississippi",113704
+2020,"Rhode Island",65102
+2020,"Arkansas",138220
+2020,"New Mexico",103453
+2020,"Washington, D.C.",123708
+2020,"Nevada",144492
+2020,"Hawaii",49539
+2021,"California",7501635
+2021,"Georgia",2285240
+2021,"Texas",5566182
+2021,"Missouri",1439121
+2021,"empty",633515
+2021,"Kansas",679493
+2021,"New Hampshire",395561
+2021,"New York",3636009
+2021,"Pennsylvania",2922222
+2021,"Illinois",3001989
+2021,"Virginia",2091294
+2021,"Arkansas",508925
+2021,"Oklahoma",721559
+2021,"Ohio",2683691
+2021,"Florida",4218680
+2021,"Minnesota",1527381
+2021,"Oregon",995241
+2021,"Indiana",1513243
+2021,"Tennessee",1467263
+2021,"Washington, D.C.",423855
+2021,"North Carolina",2351617
+2021,"New Jersey",1959836
+2021,"Alabama",807164
+2021,"Wisconsin",1450968
+2021,"Kentucky",838263
+2021,"New Mexico",384340
+2021,"Arizona",1590800
+2021,"Massachusetts",2080312
+2021,"Michigan",1982540
+2021,"Washington",1869365
+2021,"Utah",787954
+2021,"Vermont",168614
+2021,"Maryland",1363269
+2021,"Louisiana",638873
+2021,"Colorado",1567232
+2021,"Connecticut",773750
+2021,"Mississippi",403188
+2021,"Wyoming",127405
+2021,"Iowa",763185
+2021,"Rhode Island",238158
+2021,"Nebraska",469109
+2021,"Hawaii",160570
+2021,"Delaware",238246
+2021,"Maine",300847
+2021,"West Virginia",297480
+2021,"South Carolina",1003093
+2021,"North Dakota",197770
+2021,"Montana",226607
+2021,"Alaska",126255
+2021,"Idaho",357397
+2021,"South Dakota",190054
+2021,"Nevada",544528
+2022,"Massachusetts",2824396
+2022,"Tennessee",2119877
+2022,"Pennsylvania",3891887
+2022,"California",10150376
+2022,"Utah",1054999
+2022,"Washington",2556689
+2022,"Texas",7809357
+2022,"empty",1629583
+2022,"Oregon",1358042
+2022,"Kansas",929402
+2022,"Missouri",2019422
+2022,"Wisconsin",2056032
+2022,"Connecticut",1102197
+2022,"New York",4954288
+2022,"Indiana",2124976
+2022,"Iowa",1049640
+2022,"Alabama",1119764
+2022,"New Jersey",2589926
+2022,"Illinois",3995874
+2022,"Ohio",3717805
+2022,"North Carolina",3340337
+2022,"Maine",440432
+2022,"Rhode Island",331500
+2022,"Georgia",3127624
+2022,"North Dakota",309702
+2022,"Mississippi",521605
+2022,"Maryland",1871197
+2022,"Florida",5758743
+2022,"Wyoming",174505
+2022,"Louisiana",880775
+2022,"West Virginia",413007
+2022,"Arizona",2155517
+2022,"Colorado",2185864
+2022,"Nebraska",674176
+2022,"Arkansas",665369
+2022,"Washington, D.C.",602770
+2022,"Idaho",483059
+2022,"Vermont",234866
+2022,"New Hampshire",563786
+2022,"Minnesota",2075010
+2022,"Montana",325806
+2022,"Virginia",2864470
+2022,"Michigan",2663692
+2022,"Nevada",767648
+2022,"South Carolina",1504125
+2022,"Hawaii",272341
+2022,"South Dakota",275169
+2022,"Oklahoma",975341
+2022,"Kentucky",1142573
+2022,"Alaska",186026
+2022,"Delaware",335500
+2022,"New Mexico",555943
+2023,"Illinois",3248571
+2023,"Kentucky",986753
+2023,"Utah",791842
+2023,"California",7508546
+2023,"Alabama",1011378
+2023,"Washington",1917184
+2023,"North Dakota",304400
+2023,"empty",1531580
+2023,"New York",3946087
+2023,"Mississippi",483287
+2023,"New Hampshire",533173
+2023,"New Jersey",2178129
+2023,"Texas",6378007
+2023,"Colorado",1754253
+2023,"Ohio",3061183
+2023,"Minnesota",1712591
+2023,"Virginia",2461006
+2023,"Wisconsin",1741498
+2023,"Pennsylvania",3303431
+2023,"Michigan",2204896
+2023,"Iowa",951728
+2023,"Massachusetts",2322213
+2023,"Florida",4688341
+2023,"Missouri",1683336
+2023,"New Mexico",527912
+2023,"Oregon",1130785
+2023,"Connecticut",922113
+2023,"North Carolina",2711837
+2023,"Indiana",1798075
+2023,"Arizona",1727636
+2023,"South Carolina",1328334
+2023,"Nevada",635333
+2023,"Montana",348198
+2023,"Tennessee",1782495
+2023,"Georgia",2588680
+2023,"Delaware",265213
+2023,"Arkansas",600926
+2023,"Idaho",409577
+2023,"Louisiana",856220
+2023,"Maryland",1601802
+2023,"Alaska",209109
+2023,"Kansas",809424
+2023,"Oklahoma",866234
+2023,"South Dakota",271546
+2023,"West Virginia",405511
+2023,"Wyoming",165701
+2023,"Nebraska",586109
+2023,"Washington, D.C.",471440
+2023,"Rhode Island",278147
+2023,"Maine",408918
+2023,"Vermont",237022
+2023,"Hawaii",284479
+2024,"South Carolina",1482764
+2024,"Ohio",2971779
+2024,"Massachusetts",2190307
+2024,"New York",3974221
+2024,"Georgia",2564084
+2024,"Louisiana",1094497
+2024,"California",7449422
+2024,"Tennessee",1723638
+2024,"Virginia",2474042
+2024,"Washington",2017434
+2024,"New Jersey",2014832
+2024,"Minnesota",1560538
+2024,"North Carolina",2728137
+2024,"Illinois",3164183
+2024,"Iowa",967343
+2024,"Connecticut",881219
+2024,"empty",1846961
+2024,"Florida",4445330
+2024,"Idaho",423287
+2024,"Indiana",1874542
+2024,"Texas",6325562
+2024,"Kentucky",983112
+2024,"Alabama",1030259
+2024,"Maryland",1529588
+2024,"Oklahoma",905511
+2024,"Missouri",1685087
+2024,"New Mexico",626505
+2024,"Washington, D.C.",434863
+2024,"Kansas",838244
+2024,"Wisconsin",1673176
+2024,"Wyoming",195831
+2024,"Arizona",1703369
+2024,"Colorado",1693193
+2024,"Arkansas",670368
+2024,"South Dakota",315724
+2024,"West Virginia",459434
+2024,"Oregon",1130836
+2024,"Delaware",292476
+2024,"Mississippi",524769
+2024,"Michigan",2194689
+2024,"Pennsylvania",3244260
+2024,"Utah",760650
+2024,"Nevada",620486
+2024,"North Dakota",332960
+2024,"Hawaii",348439
+2024,"Vermont",263749
+2024,"Alaska",253258
+2024,"Rhode Island",294109
+2024,"Nebraska",587415
+2024,"Montana",449213
+2024,"Maine",436768
+2024,"New Hampshire",564859
+2025,"empty",12397
+2025,"South Carolina",15721
+2025,"Oregon",10433
+2025,"Kentucky",10465
+2025,"Florida",41371
+2025,"Wisconsin",18061
+2025,"Illinois",30382
+2025,"Nebraska",5606
+2025,"New Mexico",5739
+2025,"Missouri",15923
+2025,"Delaware",2650
+2025,"North Carolina",27536
+2025,"California",63125
+2025,"Louisiana",10285
+2025,"Ohio",30919
+2025,"Massachusetts",18805
+2025,"Montana",4172
+2025,"Iowa",9766
+2025,"Texas",60097
+2025,"Arkansas",7354
+2025,"Virginia",22789
+2025,"Pennsylvania",30979
+2025,"Oklahoma",9072
+2025,"New York",35790
+2025,"Colorado",15709
+2025,"Washington",17625
+2025,"Maryland",13582
+2025,"Georgia",26041
+2025,"New Jersey",18250
+2025,"Arizona",15171
+2025,"Minnesota",15841
+2025,"Nevada",5982
+2025,"Alabama",11632
+2025,"Alaska",2190
+2025,"West Virginia",4634
+2025,"Connecticut",8470
+2025,"Rhode Island",4014
+2025,"Tennessee",18745
+2025,"Washington, D.C.",2953
+2025,"Indiana",18815
+2025,"Mississippi",5993
+2025,"Kansas",9728
+2025,"Michigan",20928
+2025,"Hawaii",3349
+2025,"South Dakota",2770
+2025,"Utah",6763
+2025,"New Hampshire",4989
+2025,"Idaho",3763
+2025,"Vermont",2254
+2025,"North Dakota",3886
+2025,"Maine",4142
+2025,"Wyoming",2006
