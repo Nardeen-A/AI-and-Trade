@@ -1,0 +1,766 @@
+"state","year","population"
+"Alabama",2010,4785514
+"Alabama",2011,4799642
+"Alabama",2012,4816632
+"Alabama",2013,4831586
+"Alabama",2014,4843737
+"Alabama",2015,4854803
+"Alabama",2016,4866824
+"Alabama",2017,4877989
+"Alabama",2018,4891628
+"Alabama",2019,4907965
+"Alabama",2020,5033094
+"Alabama",2021,5049196
+"Alabama",2022,5076181
+"Alabama",2023,5117673
+"Alabama",2024,5157699
+"Alaska",2010,713982
+"Alaska",2011,722349
+"Alaska",2012,730810
+"Alaska",2013,737626
+"Alaska",2014,737075
+"Alaska",2015,738430
+"Alaska",2016,742575
+"Alaska",2017,740983
+"Alaska",2018,736624
+"Alaska",2019,733603
+"Alaska",2020,733017
+"Alaska",2021,734420
+"Alaska",2022,734442
+"Alaska",2023,736510
+"Alaska",2024,740133
+"Arizona",2010,6407342
+"Arizona",2011,6473416
+"Arizona",2012,6556344
+"Arizona",2013,6634690
+"Arizona",2014,6732873
+"Arizona",2015,6832810
+"Arizona",2016,6944767
+"Arizona",2017,7048088
+"Arizona",2018,7164228
+"Arizona",2019,7291843
+"Arizona",2020,7187135
+"Arizona",2021,7274078
+"Arizona",2022,7377566
+"Arizona",2023,7473027
+"Arizona",2024,7582384
+"Arkansas",2010,2921998
+"Arkansas",2011,2941038
+"Arkansas",2012,2952876
+"Arkansas",2013,2960459
+"Arkansas",2014,2968759
+"Arkansas",2015,2979732
+"Arkansas",2016,2991815
+"Arkansas",2017,3003855
+"Arkansas",2018,3012161
+"Arkansas",2019,3020985
+"Arkansas",2020,3014546
+"Arkansas",2021,3026870
+"Arkansas",2022,3047704
+"Arkansas",2023,3069463
+"Arkansas",2024,3088354
+"California",2010,37319550
+"California",2011,37636311
+"California",2012,37944551
+"California",2013,38253768
+"California",2014,38586706
+"California",2015,38904296
+"California",2016,39149186
+"California",2017,39337785
+"California",2018,39437463
+"California",2019,39437610
+"California",2020,39521958
+"California",2021,39142565
+"California",2022,39142414
+"California",2023,39198693
+"California",2024,39431263
+"Colorado",2010,5047539
+"Colorado",2011,5121900
+"Colorado",2012,5193660
+"Colorado",2013,5270774
+"Colorado",2014,5352637
+"Colorado",2015,5454328
+"Colorado",2016,5543844
+"Colorado",2017,5617421
+"Colorado",2018,5697155
+"Colorado",2019,5758486
+"Colorado",2020,5787129
+"Colorado",2021,5814036
+"Colorado",2022,5850935
+"Colorado",2023,5901339
+"Colorado",2024,5957493
+"Connecticut",2010,3579173
+"Connecticut",2011,3588632
+"Connecticut",2012,3595211
+"Connecticut",2013,3595792
+"Connecticut",2014,3595697
+"Connecticut",2015,3588561
+"Connecticut",2016,3579830
+"Connecticut",2017,3575324
+"Connecticut",2018,3574561
+"Connecticut",2019,3566022
+"Connecticut",2020,3579918
+"Connecticut",2021,3606607
+"Connecticut",2022,3617925
+"Connecticut",2023,3643023
+"Connecticut",2024,3675069
+"Delaware",2010,899647
+"Delaware",2011,907590
+"Delaware",2012,915518
+"Delaware",2013,924062
+"Delaware",2014,933131
+"Delaware",2015,942065
+"Delaware",2016,949989
+"Delaware",2017,957942
+"Delaware",2018,966985
+"Delaware",2019,976668
+"Delaware",2020,991928
+"Delaware",2021,1005062
+"Delaware",2022,1020625
+"Delaware",2023,1036423
+"Delaware",2024,1051917
+"District of Columbia",2010,605282
+"District of Columbia",2011,620290
+"District of Columbia",2012,635737
+"District of Columbia",2013,651559
+"District of Columbia",2014,663603
+"District of Columbia",2015,677014
+"District of Columbia",2016,687576
+"District of Columbia",2017,697079
+"District of Columbia",2018,704147
+"District of Columbia",2019,708253
+"District of Columbia",2020,670917
+"District of Columbia",2021,669256
+"District of Columbia",2022,676725
+"District of Columbia",2023,687324
+"District of Columbia",2024,702250
+"Florida",2010,18846143
+"Florida",2011,19055607
+"Florida",2012,19302016
+"Florida",2013,19551678
+"Florida",2014,19853880
+"Florida",2015,20219111
+"Florida",2016,20627237
+"Florida",2017,20977089
+"Florida",2018,21254926
+"Florida",2019,21492056
+"Florida",2020,21592035
+"Florida",2021,21831949
+"Florida",2022,22379312
+"Florida",2023,22904868
+"Florida",2024,23372215
+"Georgia",2010,9712209
+"Georgia",2011,9803630
+"Georgia",2012,9903580
+"Georgia",2013,9975592
+"Georgia",2014,10071204
+"Georgia",2015,10183353
+"Georgia",2016,10308442
+"Georgia",2017,10417031
+"Georgia",2018,10519389
+"Georgia",2019,10628020
+"Georgia",2020,10732888
+"Georgia",2021,10792060
+"Georgia",2022,10931805
+"Georgia",2023,11064432
+"Georgia",2024,11180878
+"Hawaii",2010,1364004
+"Hawaii",2011,1379562
+"Hawaii",2012,1395199
+"Hawaii",2013,1408822
+"Hawaii",2014,1415335
+"Hawaii",2015,1422999
+"Hawaii",2016,1428885
+"Hawaii",2017,1425763
+"Hawaii",2018,1423102
+"Hawaii",2019,1415615
+"Hawaii",2020,1451252
+"Hawaii",2021,1447029
+"Hawaii",2022,1440359
+"Hawaii",2023,1441387
+"Hawaii",2024,1446146
+"Idaho",2010,1570819
+"Idaho",2011,1584272
+"Idaho",2012,1595910
+"Idaho",2013,1612053
+"Idaho",2014,1632248
+"Idaho",2015,1652495
+"Idaho",2016,1684036
+"Idaho",2017,1719745
+"Idaho",2018,1752074
+"Idaho",2019,1789060
+"Idaho",2020,1849415
+"Idaho",2021,1904848
+"Idaho",2022,1944299
+"Idaho",2023,1971122
+"Idaho",2024,2001619
+"Illinois",2010,12840545
+"Illinois",2011,12867783
+"Illinois",2012,12883029
+"Illinois",2013,12895778
+"Illinois",2014,12885092
+"Illinois",2015,12859585
+"Illinois",2016,12821709
+"Illinois",2017,12779893
+"Illinois",2018,12724685
+"Illinois",2019,12667017
+"Illinois",2020,12799088
+"Illinois",2021,12700641
+"Illinois",2022,12621821
+"Illinois",2023,12642259
+"Illinois",2024,12710158
+"Indiana",2010,6490555
+"Indiana",2011,6517250
+"Indiana",2012,6538989
+"Indiana",2013,6570575
+"Indiana",2014,6596019
+"Indiana",2015,6611442
+"Indiana",2016,6637898
+"Indiana",2017,6662068
+"Indiana",2018,6698481
+"Indiana",2019,6731010
+"Indiana",2020,6790497
+"Indiana",2021,6815907
+"Indiana",2022,6844545
+"Indiana",2023,6880131
+"Indiana",2024,6924275
+"Iowa",2010,3050819
+"Iowa",2011,3066772
+"Iowa",2012,3076844
+"Iowa",2013,3093935
+"Iowa",2014,3110643
+"Iowa",2015,3122541
+"Iowa",2016,3133210
+"Iowa",2017,3143734
+"Iowa",2018,3149900
+"Iowa",2019,3159596
+"Iowa",2020,3191141
+"Iowa",2021,3198613
+"Iowa",2022,3202820
+"Iowa",2023,3218414
+"Iowa",2024,3241488
+"Kansas",2010,2858266
+"Kansas",2011,2869677
+"Kansas",2012,2886024
+"Kansas",2013,2894306
+"Kansas",2014,2901861
+"Kansas",2015,2910717
+"Kansas",2016,2912977
+"Kansas",2017,2910892
+"Kansas",2018,2912748
+"Kansas",2019,2912635
+"Kansas",2020,2938172
+"Kansas",2021,2938338
+"Kansas",2022,2937324
+"Kansas",2023,2951500
+"Kansas",2024,2970606
+"Kentucky",2010,4348464
+"Kentucky",2011,4370817
+"Kentucky",2012,4387865
+"Kentucky",2013,4406906
+"Kentucky",2014,4416992
+"Kentucky",2015,4429126
+"Kentucky",2016,4440306
+"Kentucky",2017,4455590
+"Kentucky",2018,4464273
+"Kentucky",2019,4472345
+"Kentucky",2020,4508318
+"Kentucky",2021,4507583
+"Kentucky",2022,4519233
+"Kentucky",2023,4550595
+"Kentucky",2024,4588372
+"Louisiana",2010,4544635
+"Louisiana",2011,4576244
+"Louisiana",2012,4602067
+"Louisiana",2013,4626040
+"Louisiana",2014,4645938
+"Louisiana",2015,4666998
+"Louisiana",2016,4681346
+"Louisiana",2017,4673673
+"Louisiana",2018,4664450
+"Louisiana",2019,4658285
+"Louisiana",2020,4652301
+"Louisiana",2021,4627971
+"Louisiana",2022,4593687
+"Louisiana",2023,4588071
+"Louisiana",2024,4597740
+"Maine",2010,1327651
+"Maine",2011,1328473
+"Maine",2012,1328094
+"Maine",2013,1328543
+"Maine",2014,1331217
+"Maine",2015,1329098
+"Maine",2016,1332348
+"Maine",2017,1335743
+"Maine",2018,1340123
+"Maine",2019,1345770
+"Maine",2020,1364571
+"Maine",2021,1378931
+"Maine",2022,1390922
+"Maine",2023,1399646
+"Maine",2024,1405012
+"Maryland",2010,5788784
+"Maryland",2011,5840241
+"Maryland",2012,5888375
+"Maryland",2013,5925197
+"Maryland",2014,5960064
+"Maryland",2015,5988528
+"Maryland",2016,6007014
+"Maryland",2017,6028186
+"Maryland",2018,6042153
+"Maryland",2019,6054954
+"Maryland",2020,6177935
+"Maryland",2021,6179403
+"Maryland",2022,6192440
+"Maryland",2023,6217062
+"Maryland",2024,6263220
+"Massachusetts",2010,6566440
+"Massachusetts",2011,6614218
+"Massachusetts",2012,6664269
+"Massachusetts",2013,6715158
+"Massachusetts",2014,6764864
+"Massachusetts",2015,6797484
+"Massachusetts",2016,6827280
+"Massachusetts",2017,6863560
+"Massachusetts",2018,6885720
+"Massachusetts",2019,6894883
+"Massachusetts",2020,6994598
+"Massachusetts",2021,7000474
+"Massachusetts",2022,7022468
+"Massachusetts",2023,7066568
+"Massachusetts",2024,7136171
+"Michigan",2010,9877597
+"Michigan",2011,9883053
+"Michigan",2012,9898289
+"Michigan",2013,9914802
+"Michigan",2014,9932033
+"Michigan",2015,9934483
+"Michigan",2016,9954117
+"Michigan",2017,9976752
+"Michigan",2018,9987286
+"Michigan",2019,9984795
+"Michigan",2020,10072703
+"Michigan",2021,10041351
+"Michigan",2022,10050877
+"Michigan",2023,10083356
+"Michigan",2024,10140459
+"Minnesota",2010,5310934
+"Minnesota",2011,5346620
+"Minnesota",2012,5377500
+"Minnesota",2013,5414722
+"Minnesota",2014,5452665
+"Minnesota",2015,5484002
+"Minnesota",2016,5525360
+"Minnesota",2017,5569283
+"Minnesota",2018,5608762
+"Minnesota",2019,5640053
+"Minnesota",2020,5710735
+"Minnesota",2021,5718660
+"Minnesota",2022,5721621
+"Minnesota",2023,5753048
+"Minnesota",2024,5793151
+"Mississippi",2010,2970615
+"Mississippi",2011,2979147
+"Mississippi",2012,2984599
+"Mississippi",2013,2989839
+"Mississippi",2014,2991892
+"Mississippi",2015,2990231
+"Mississippi",2016,2990595
+"Mississippi",2017,2990674
+"Mississippi",2018,2982879
+"Mississippi",2019,2978227
+"Mississippi",2020,2958536
+"Mississippi",2021,2947209
+"Mississippi",2022,2941939
+"Mississippi",2023,2943172
+"Mississippi",2024,2943045
+"Missouri",2010,5996089
+"Missouri",2011,6011182
+"Missouri",2012,6026027
+"Missouri",2013,6042989
+"Missouri",2014,6059130
+"Missouri",2015,6075411
+"Missouri",2016,6091384
+"Missouri",2017,6111382
+"Missouri",2018,6125986
+"Missouri",2019,6140475
+"Missouri",2020,6154744
+"Missouri",2021,6171374
+"Missouri",2022,6179414
+"Missouri",2023,6208038
+"Missouri",2024,6245466
+"Montana",2010,990730
+"Montana",2011,997518
+"Montana",2012,1004168
+"Montana",2013,1014158
+"Montana",2014,1022657
+"Montana",2015,1031495
+"Montana",2016,1042137
+"Montana",2017,1053862
+"Montana",2018,1061818
+"Montana",2019,1070123
+"Montana",2020,1087230
+"Montana",2021,1106522
+"Montana",2022,1122095
+"Montana",2023,1131302
+"Montana",2024,1137233
+"Nebraska",2010,1829591
+"Nebraska",2011,1840914
+"Nebraska",2012,1853691
+"Nebraska",2013,1865813
+"Nebraska",2014,1879955
+"Nebraska",2015,1892059
+"Nebraska",2016,1906483
+"Nebraska",2017,1916998
+"Nebraska",2018,1925512
+"Nebraska",2019,1932571
+"Nebraska",2020,1963387
+"Nebraska",2021,1964537
+"Nebraska",2022,1972246
+"Nebraska",2023,1987864
+"Nebraska",2024,2005465
+"Nevada",2010,2702483
+"Nevada",2011,2713114
+"Nevada",2012,2744670
+"Nevada",2013,2776956
+"Nevada",2014,2818935
+"Nevada",2015,2868531
+"Nevada",2016,2919555
+"Nevada",2017,2972097
+"Nevada",2018,3030725
+"Nevada",2019,3090771
+"Nevada",2020,3116967
+"Nevada",2021,3148141
+"Nevada",2022,3176116
+"Nevada",2023,3214363
+"Nevada",2024,3267467
+"New Hampshire",2010,1316807
+"New Hampshire",2011,1320444
+"New Hampshire",2012,1324677
+"New Hampshire",2013,1327272
+"New Hampshire",2014,1334257
+"New Hampshire",2015,1337480
+"New Hampshire",2016,1343694
+"New Hampshire",2017,1350395
+"New Hampshire",2018,1355064
+"New Hampshire",2019,1360783
+"New Hampshire",2020,1378756
+"New Hampshire",2021,1387677
+"New Hampshire",2022,1396678
+"New Hampshire",2023,1402199
+"New Hampshire",2024,1409032
+"New Jersey",2010,8799451
+"New Jersey",2011,8828552
+"New Jersey",2012,8845671
+"New Jersey",2013,8857821
+"New Jersey",2014,8867277
+"New Jersey",2015,8870312
+"New Jersey",2016,8873584
+"New Jersey",2017,8888147
+"New Jersey",2018,8891730
+"New Jersey",2019,8891258
+"New Jersey",2020,9272794
+"New Jersey",2021,9270541
+"New Jersey",2022,9295227
+"New Jersey",2023,9379642
+"New Jersey",2024,9500851
+"New Mexico",2010,2064614
+"New Mexico",2011,2080707
+"New Mexico",2012,2087715
+"New Mexico",2013,2092833
+"New Mexico",2014,2090236
+"New Mexico",2015,2090071
+"New Mexico",2016,2092555
+"New Mexico",2017,2092844
+"New Mexico",2018,2093754
+"New Mexico",2019,2099634
+"New Mexico",2020,2118606
+"New Mexico",2021,2117333
+"New Mexico",2022,2113868
+"New Mexico",2023,2121164
+"New Mexico",2024,2130256
+"New York",2010,19399956
+"New York",2011,19499921
+"New York",2012,19574362
+"New York",2013,19626488
+"New York",2014,19653431
+"New York",2015,19657321
+"New York",2016,19636391
+"New York",2017,19593849
+"New York",2018,19544098
+"New York",2019,19463131
+"New York",2020,20105171
+"New York",2021,19848276
+"New York",2022,19703747
+"New York",2023,19737367
+"New York",2024,19867248
+"North Carolina",2010,9574586
+"North Carolina",2011,9658913
+"North Carolina",2012,9751810
+"North Carolina",2013,9846717
+"North Carolina",2014,9937295
+"North Carolina",2015,10037218
+"North Carolina",2016,10161802
+"North Carolina",2017,10275758
+"North Carolina",2018,10391358
+"North Carolina",2019,10501384
+"North Carolina",2020,10449652
+"North Carolina",2021,10564320
+"North Carolina",2022,10710793
+"North Carolina",2023,10881189
+"North Carolina",2024,11046024
+"North Dakota",2010,674752
+"North Dakota",2011,685526
+"North Dakota",2012,702227
+"North Dakota",2013,723149
+"North Dakota",2014,738736
+"North Dakota",2015,755537
+"North Dakota",2016,756114
+"North Dakota",2017,756755
+"North Dakota",2018,760062
+"North Dakota",2019,763724
+"North Dakota",2020,779563
+"North Dakota",2021,777966
+"North Dakota",2022,781057
+"North Dakota",2023,789047
+"North Dakota",2024,796568
+"Ohio",2010,11539449
+"Ohio",2011,11545735
+"Ohio",2012,11550971
+"Ohio",2013,11579692
+"Ohio",2014,11606573
+"Ohio",2015,11622315
+"Ohio",2016,11640060
+"Ohio",2017,11665706
+"Ohio",2018,11680892
+"Ohio",2019,11696507
+"Ohio",2020,11798905
+"Ohio",2021,11767344
+"Ohio",2022,11777874
+"Ohio",2023,11824034
+"Ohio",2024,11883304
+"Oklahoma",2010,3760014
+"Oklahoma",2011,3788824
+"Oklahoma",2012,3819320
+"Oklahoma",2013,3853891
+"Oklahoma",2014,3879187
+"Oklahoma",2015,3910518
+"Oklahoma",2016,3928143
+"Oklahoma",2017,3933602
+"Oklahoma",2018,3943488
+"Oklahoma",2019,3960676
+"Oklahoma",2020,3965415
+"Oklahoma",2021,3992238
+"Oklahoma",2022,4026229
+"Oklahoma",2023,4063882
+"Oklahoma",2024,4095393
+"Oregon",2010,3837614
+"Oregon",2011,3872672
+"Oregon",2012,3900102
+"Oregon",2013,3924110
+"Oregon",2014,3965447
+"Oregon",2015,4018542
+"Oregon",2016,4093271
+"Oregon",2017,4147294
+"Oregon",2018,4183538
+"Oregon",2019,4216116
+"Oregon",2020,4243779
+"Oregon",2021,4254280
+"Oregon",2022,4247372
+"Oregon",2023,4253653
+"Oregon",2024,4272371
+"Pennsylvania",2010,12711406
+"Pennsylvania",2011,12747052
+"Pennsylvania",2012,12769123
+"Pennsylvania",2013,12779538
+"Pennsylvania",2014,12792392
+"Pennsylvania",2015,12789838
+"Pennsylvania",2016,12788468
+"Pennsylvania",2017,12794679
+"Pennsylvania",2018,12809107
+"Pennsylvania",2019,12798883
+"Pennsylvania",2020,12996143
+"Pennsylvania",2021,13015571
+"Pennsylvania",2022,12984990
+"Pennsylvania",2023,13017721
+"Pennsylvania",2024,13078751
+"Rhode Island",2010,1053994
+"Rhode Island",2011,1053829
+"Rhode Island",2012,1054893
+"Rhode Island",2013,1055560
+"Rhode Island",2014,1056511
+"Rhode Island",2015,1056886
+"Rhode Island",2016,1057816
+"Rhode Island",2017,1056554
+"Rhode Island",2018,1059338
+"Rhode Island",2019,1058158
+"Rhode Island",2020,1096530
+"Rhode Island",2021,1097246
+"Rhode Island",2022,1099498
+"Rhode Island",2023,1103429
+"Rhode Island",2024,1112308
+"South Carolina",2010,4635846
+"South Carolina",2011,4672655
+"South Carolina",2012,4719027
+"South Carolina",2013,4766469
+"South Carolina",2014,4826858
+"South Carolina",2015,4896006
+"South Carolina",2016,4963031
+"South Carolina",2017,5027102
+"South Carolina",2018,5091702
+"South Carolina",2019,5157702
+"South Carolina",2020,5132249
+"South Carolina",2021,5194274
+"South Carolina",2022,5287935
+"South Carolina",2023,5387830
+"South Carolina",2024,5478831
+"South Dakota",2010,816193
+"South Dakota",2011,823740
+"South Dakota",2012,833859
+"South Dakota",2013,842751
+"South Dakota",2014,849670
+"South Dakota",2015,854663
+"South Dakota",2016,863693
+"South Dakota",2017,873732
+"South Dakota",2018,879386
+"South Dakota",2019,887127
+"South Dakota",2020,887948
+"South Dakota",2021,896492
+"South Dakota",2022,909723
+"South Dakota",2023,918305
+"South Dakota",2024,924669
+"Tennessee",2010,6355518
+"Tennessee",2011,6400298
+"Tennessee",2012,6455752
+"Tennessee",2013,6496943
+"Tennessee",2014,6544617
+"Tennessee",2015,6595354
+"Tennessee",2016,6651277
+"Tennessee",2017,6714748
+"Tennessee",2018,6778180
+"Tennessee",2019,6830325
+"Tennessee",2020,6927904
+"Tennessee",2021,6965740
+"Tennessee",2022,7062217
+"Tennessee",2023,7148304
+"Tennessee",2024,7227750
+"Texas",2010,25241897
+"Texas",2011,25645504
+"Texas",2012,26084120
+"Texas",2013,26479646
+"Texas",2014,26963092
+"Texas",2015,27468531
+"Texas",2016,27914064
+"Texas",2017,28291024
+"Texas",2018,28624564
+"Texas",2019,28986794
+"Texas",2020,29239570
+"Texas",2021,29570351
+"Texas",2022,30113488
+"Texas",2023,30727890
+"Texas",2024,31290831
+"Utah",2010,2775413
+"Utah",2011,2814797
+"Utah",2012,2854146
+"Utah",2013,2898773
+"Utah",2014,2938327
+"Utah",2015,2983626
+"Utah",2016,3044241
+"Utah",2017,3103540
+"Utah",2018,3155153
+"Utah",2019,3203383
+"Utah",2020,3284077
+"Utah",2021,3339738
+"Utah",2022,3391011
+"Utah",2023,3443222
+"Utah",2024,3503613
+"Vermont",2010,625886
+"Vermont",2011,627197
+"Vermont",2012,626361
+"Vermont",2013,626603
+"Vermont",2014,625693
+"Vermont",2015,625810
+"Vermont",2016,624366
+"Vermont",2017,625132
+"Vermont",2018,624802
+"Vermont",2019,624046
+"Vermont",2020,642977
+"Vermont",2021,647210
+"Vermont",2022,648142
+"Vermont",2023,648708
+"Vermont",2024,648493
+"Virginia",2010,8024004
+"Virginia",2011,8102437
+"Virginia",2012,8187456
+"Virginia",2013,8255861
+"Virginia",2014,8315430
+"Virginia",2015,8367303
+"Virginia",2016,8417651
+"Virginia",2017,8471011
+"Virginia",2018,8510920
+"Virginia",2019,8556642
+"Virginia",2020,8637615
+"Virginia",2021,8658910
+"Virginia",2022,8683414
+"Virginia",2023,8734685
+"Virginia",2024,8811195
+"Washington",2010,6743009
+"Washington",2011,6827479
+"Washington",2012,6898599
+"Washington",2013,6966252
+"Washington",2014,7057531
+"Washington",2015,7167287
+"Washington",2016,7299961
+"Washington",2017,7427951
+"Washington",2018,7526793
+"Washington",2019,7614024
+"Washington",2020,7727209
+"Washington",2021,7743760
+"Washington",2022,7794123
+"Washington",2023,7857320
+"Washington",2024,7958180
+"West Virginia",2010,1854265
+"West Virginia",2011,1856606
+"West Virginia",2012,1857446
+"West Virginia",2013,1854768
+"West Virginia",2014,1850569
+"West Virginia",2015,1843332
+"West Virginia",2016,1832435
+"West Virginia",2017,1818683
+"West Virginia",2018,1805953
+"West Virginia",2019,1795263
+"West Virginia",2020,1791646
+"West Virginia",2021,1785618
+"West Virginia",2022,1774122
+"West Virginia",2023,1770495
+"West Virginia",2024,1769979
+"Wisconsin",2010,5690538
+"Wisconsin",2011,5705840
+"Wisconsin",2012,5720825
+"Wisconsin",2013,5738012
+"Wisconsin",2014,5753199
+"Wisconsin",2015,5762927
+"Wisconsin",2016,5775170
+"Wisconsin",2017,5793147
+"Wisconsin",2018,5809319
+"Wisconsin",2019,5824581
+"Wisconsin",2020,5897375
+"Wisconsin",2021,5881608
+"Wisconsin",2022,5903975
+"Wisconsin",2023,5930405
+"Wisconsin",2024,5960975
+"Wyoming",2010,564531
+"Wyoming",2011,567491
+"Wyoming",2012,576656
+"Wyoming",2013,582620
+"Wyoming",2014,583159
+"Wyoming",2015,586389
+"Wyoming",2016,585243
+"Wyoming",2017,579994
+"Wyoming",2018,579054
+"Wyoming",2019,580116
+"Wyoming",2020,577681
+"Wyoming",2021,579636
+"Wyoming",2022,581978
+"Wyoming",2023,585067
+"Wyoming",2024,587618
