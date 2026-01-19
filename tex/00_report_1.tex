@@ -1,0 +1,205 @@
+%=================================================
+% Economics Coursework Template
+%=================================================
+\documentclass[12pt]{article}
+
+%------------ Packages ------------
+\usepackage[margin=1in]{geometry}   % Page layout
+\usepackage{lmodern}                % Latin Modern (LaTeX default font)
+\usepackage{amsmath, amssymb}       % Math symbols
+\usepackage{booktabs}               % Professional tables
+\usepackage{graphicx}               % Figures
+\usepackage{natbib}                 % References
+\usepackage[hidelinks]{hyperref}    % Hyperlinks
+\usepackage{fancyhdr}               % Headers/footers
+\usepackage{setspace}               % Line spacing
+\usepackage{titlesec}               % Section formatting
+\usepackage{comment} 
+\usepackage{xcolor} 
+\usepackage{amsthm} 
+\usepackage{float} 
+\usepackage{dcolumn}
+\usepackage{titlesec}
+\usepackage{enumitem}
+\usepackage{hyperref}
+\usepackage{tikz}
+\usepackage{multicol}
+\usetikzlibrary{arrows.meta,positioning,fit,calc}
+\tikzset{
+  var/.style={rectangle, draw, rounded corners, minimum width=18mm, minimum height=7mm, align=center},
+  latent/.style={ellipse, draw, dashed, minimum width=18mm, minimum height=7mm, align=center},
+  controlarrow/.style={->, dashed, draw=red!60},
+  lightbluearrow/.style={->, dashed, draw=blue!40} % NEW style
+}
+
+%------------ Page Style ------------
+\rhead{\thepage}
+\lhead{ECO1465 Weekly Report 1}
+
+%------------ Section Formatting ------------
+\titleformat{\section}{\large\bfseries}{\thesection.}{0.5em}{}
+\titleformat{\subsection}{\normalsize\bfseries\itshape}{\thesubsection}{0.5em}{}
+\titlespacing*{\subsection}{0pt}{1.5ex plus 1ex minus .2ex}{1em} % spacing before/after subsections
+
+
+%------------ Begin Document ------------
+\begin{document}
+% Title Page only
+\begin{titlepage}
+    \thispagestyle{empty} % no headers/footers
+    \centering
+    \vspace*{\fill}
+
+    {\Large \textbf{Trade \& AI: Report 1} \par}
+
+    \vspace{3em}
+    {\large Nardeen Abdulkareem \par}
+    {\normalsize The University of Toronto \par}
+    {\normalsize \today \par}
+    {\texttt{nardeen.abdulkareem@mail.utoronto.ca} \par}
+
+    \vspace*{\fill}
+\end{titlepage}
+\clearpage
+
+\section{Data}
+\subsection{Datasets}
+Our data contains eleven sets of information which includes the unified individual data set. The unified individual data set is of high importance in the subsequent analysis. We observe ID's for the job postings, companies, titles, categories, skill sets, locations, expected salaries, expected hires, and where the job posting was sourced from. The datasets are:
+\begin{itemize}[leftmargin=*, nosep]
+    \item Company reference list
+    \item Individual user positions
+    \item Individual user on-line profiles
+    \item Individual user education 
+    \item Individual user skills 
+    \item Lay-offs data
+    \item Unified postings data
+    \item Sentiments and reviews of jobs
+    \item Three sets of dynam data sets by demographics, geography, and role. These contain inflows and outflows.
+    \item I have used population data from 2010 to 2024 from the US census which I use to derive the jobs per capita in the USA (population.csv).
+
+\end{itemize} 
+
+\subsection{Data derived from unified job postings}
+I include a script which checks for corrupt data and in the unified data I found one file (postings\_unified\_individual\_0324\_part\_04.parquet) which cannot be opened. The following is a list of data I used and pulled from the unified dataset:
+
+\begin{itemize}[leftmargin=*, nosep]
+\item Included in the outputs/data file is a data sparsity table which measures the number of job openings per year and state. We find the data is well populated from the 2016 to 2024 (data\_sparsity.csv).
+\item A list of the 1500 job categories which are present in the dataset (jobs\_catagories.csv).
+\item A sample of unified data in csv format for you to look at (sample.csv).
+\item I also provide a count of total job postings and job postings in AI related fields per capita (jobs\_by\_year\_state\_population.csv, ai\_per\_cap.csv)
+\end{itemize}
+\textit{Next I outline the scripts I have used and the Illustrate the plots I have created} 
+
+\newpage 
+\section{Analysis}
+I have Four scripts which I have used. The first, is a list of packages. The second, is a corruption check script. The third, counts the total number of job postings per state, and year; and measures these counts on per capita terms. I include the code for the maps and the percent rankings in the third script. The final script is nearly identical to the third, but it filters the total job postings by job categories related to AI. Here is a list of the job categories I choose which I believe to be related to AI:
+\begin{multicols}{2}
+\begin{itemize}
+  \setlength{\itemsep}{0pt}
+  \setlength{\parskip}{0pt}
+  \setlength{\parsep}{0pt}
+  \setlength{\topsep}{0pt}
+  \item Data Scientist
+  \item Data Engineer
+  \item Data Science
+  \item Statistician
+  \item Automation Engineer
+  \item Research
+  \item Researcher
+  \item Research Analyst
+  \item Research Scientist
+  \item Research Engineer
+  \item Research \& Development
+  \item Research \& Development Engineer
+  \item Scientist
+  \item Scientist I
+  \item Scientific
+  \item Computer Scientist
+  \item Innovation
+  \item Software Engineer
+  \item Software Engineer I
+  \item Software Engineering
+  \item Software Development
+  \item Software Development Engineer
+  \item Software Development Engineer in Test
+  \item Software Engineer Analyst
+  \item Software Engineering Analyst
+  \item Software Architect
+  \item Advisory Software Engineer
+  \item Software Designer
+  \item Software Consultant
+  \item Software Programmer
+  \item Developer
+  \item Programmer
+  \item Programmer Analyst
+  \item Computer Programmer
+  \item SDE
+  \item SDET
+  \item SW Engineer
+  \item Python Developer
+  \item Java Developer
+  \item Java Software Developer
+  \item Java Software Engineer
+  \item Android Developer
+  \item Web Developer
+  \item Web Application Developer
+  \item Frontend Developer
+  \item UI Developer
+  \item .NET Developer
+  \item Embedded Software Engineer
+  \item System Software Engineer
+  \item DevOps
+  \item DevOps Engineer
+  \item Site Reliability Engineer
+  \item Cloud Engineer
+  \item Cloud Architect
+  \item Infrastructure Engineer
+  \item Infrastructure Architect
+  \item Infrastructure
+  \item IT Infrastructure
+  \item Systems Engineer
+  \item Systems Engineering
+  \item System Engineering
+  \item Systems Architect
+  \item System Architect
+  \item Storage Engineer
+  \item Data Center
+  \item Deployment
+  \item ETL Developer
+  \item Database Engineer
+  \item Database Analyst
+  \item Database Developer
+  \item Database Administrator
+  \item Data Architect
+  \item QA Automation Engineer
+  \item Test Automation Engineer
+\end{itemize}
+\end{multicols}
+\newpage
+\section{Maps}
+\begin{figure}[h]
+\centering
+\includegraphics[width=\linewidth]{1.png}
+\caption{AI Adjacent Job Postings per Capita}
+\end{figure}
+\newpage
+\begin{figure}[h]
+\centering
+\includegraphics[width=\linewidth]{2.png}
+\caption{Total Job Postings per Capita}
+\end{figure}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+\end{document}
