@@ -142,7 +142,7 @@ jobs_all <- jobs_pop %>%
   ) %>%
   group_by(year) %>%
   mutate(
-    jobs_pct = percent_rank(log_jobs_per_10k)     # 0..1 within each year) %>%
+    jobs_pct = percent_rank(log_jobs_per_10k))%>%     # 0..1 within each year) %>%
     ungroup()
     
     # ---- Join geometries to data ----

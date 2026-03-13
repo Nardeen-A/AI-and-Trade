@@ -40,7 +40,7 @@ job_categories <- ds %>%
   collect()
 
 nrow(job_categories)
-View(job_categories)
+
 
 # categories 
 ai_categories <- c(
@@ -178,6 +178,8 @@ states_sf <-
   transmute(state = NAME, geometry) %>%
   st_transform(5070)  # nice US Albers projection
 
+
+
 # ---- Prepare jobs data (ALL years) ----
 maps_data <- ai_per_cap %>%
   mutate(
@@ -215,7 +217,7 @@ maps_data <- ai_per_cap %>%
         labels = scales::percent,
         na.value = "grey92"
       ) +
-      labs(title = "AI adjecent job postings intensity per capita by state (within-year percentile)",
+      labs(title = "AI adjacent job postings intensity per capita by state (within-year percentile)",
            fill  = "Percentile") +
       coord_sf(datum = NA) +
       theme_void(base_size = 12) +
